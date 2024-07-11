@@ -15,10 +15,8 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`, and [POSIX utilities](https://pubs.opengroup.org/onlinepubs/9699919799/idx/utilities.html).
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
+- `sh`, `curl`
+- `INSTALL_RKE2_VERSION`: optionally set this environment variable to target a specific version of RKE2.
 
 # Install
 
